@@ -1,6 +1,6 @@
 {
   "name": "get-large-prime",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,14 @@
   },
   "dependencies": {
     "node-forge": "^0.9.1"
-  }
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jefflee1990710/get-large-prime"
+  },
+  "keywords": [
+    "prime",
+    "prime number",
+    "crypto"
+  ]
 }
