@@ -36,3 +36,8 @@ largePrime is a `forge.jsbn.BigInteger`
 ## Test
 
 `npm test`
+
+## Contributing
+
+https://github.com/jefflee1990710/get-large-prime
+
